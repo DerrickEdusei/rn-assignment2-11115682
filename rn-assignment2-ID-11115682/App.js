@@ -14,14 +14,14 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ADD8E6', // Change the background color
+    backgroundColor: '#ADD8E6', 
     alignItems: 'center',
     justifyContent: 'center',
   },
   text: {
-    fontSize: 24, // Increase the font size
+    fontSize: 24, 
   },
   bold: {
-    fontWeight: 'bold', // Make the name bold
+    fontWeight: 'bold', 
   },
 });
