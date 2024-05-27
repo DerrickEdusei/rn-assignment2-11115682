@@ -9,4 +9,4 @@ This project is a simple React Native application created using Expo. The task i
 - Making the name "YourName" bold.
 
 screenshot
-![Screenshot](C:\Users\johns\rn-assignment2-ID-11115682\screenshot)
+![Screenshot]("C:\Users\johns\rn-assignment2-ID-11115682\screenshot\Screenshot 2024-05-27 113009.png")

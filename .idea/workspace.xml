@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0cf13e-2b18-4fdc-b05d-fa4e40841f1c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/assets/adaptive-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/assets/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-assignment2-ID-11115682/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rn-assignment-ID-11115682/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/rn-assignment-ID-11115682/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
