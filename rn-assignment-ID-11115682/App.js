@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        My name is <Text style={styles.bold}>Edusei Derrick Akuamoah</Text>
+        My name is <Text style={styles.bold}>Derrick Edusei</Text>
       </Text>
     </View>
   );
@@ -14,7 +14,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ADD8E6', 
+    backgroundColor: '#008080', 
     justifyContent: 'center',
   },
   text: {
